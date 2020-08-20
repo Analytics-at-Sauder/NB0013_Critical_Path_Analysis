@@ -1,4 +1,4 @@
-name: project_environment
+cdname: project_environment
 dependencies:
   - matplotlib
   - networkx

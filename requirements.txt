@@ -1,0 +1,7 @@
+pandas
+matplotlib
+datetime
+networkx
+criticalpath
+plotly
+IPython
