@@ -1,5 +1,0 @@
-cdname: project_environment
-dependencies:
-  - matplotlib
-  - networkx
-  - criticalpath
